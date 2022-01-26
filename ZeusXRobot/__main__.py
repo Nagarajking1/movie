@@ -99,7 +99,7 @@ buttons = [
                             url="t.me/ZeusXRobot?startgroup=true "),
                     ],
                    [
-                       InlineKeyboardButton(text="OWNER 🍁", URL=https://t.me/Jaihindupuramking"),
+                       InlineKeyboardButton(text="OWNER", URL=https://t.me/Jaihindupuramking"),
                        InlineKeyboardButton(text="📊 Network", url="https://t.me/phoenixrules1"),
                        InlineKeyboardButton(text="🔔 Logs", url="https://t.me/sampavampullingo"),
                      ],
