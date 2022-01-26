@@ -79,36 +79,36 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[GOD OF THUNDER](https://telegra.ph/file/4c33a90f7df190fd81763.jpg)』──
+──『[PHOENIX](https://telegra.ph/file/e91c4d01d431ba18cc533.jpg)』──
 
 *Hello User!!*
-𝐇𝐞𝐲 𝐈'𝐦 [๖ۣۜZΞUS༻](https://en.m.wikipedia.org/wiki/Zeus),👋
+𝐇𝐞𝐲 𝐈'𝐦 [🇴¤‌๋‌ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧғ‌ғɪᴄ‌ɪ‌ꫝʟ✮‌♕︎⃟≛⃝❤️🇳 𝐀𝐆𝐀♕︎≛⃝❤️](https://t.me/Jaihindupuramking),👋
 𝐈 𝐀𝐦 𝐀 𝐆𝐫𝐞𝐞𝐤 𝐌𝐲𝐭𝐡𝐨𝐥𝐨𝐠𝐲 𝐆𝐨𝐝 
 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 𝐓𝐡𝐮𝐧𝐝𝐞𝐫...
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
-      "CAACAgUAAx0CRiLf0wACvWBhmnKjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1
-      "CAACAgUAAx0CRiLf0wACvWZhmnOJLucdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0cthfbyIE", #2
+      "CAACAgUAAxkBAAEDwWJh8Perw9fhSO-9fjWdeTHNJHxFHQACLQMAAkJuwVTuiYDO3jhpZiME", #1
+      "CAACAgUAAxkBAAEDwWRh8PfROmxZE78m-lUSRCNHJ5XFzwACMwMAAhp6wVRvqXTt3KOhSSME", #2
 )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑️ SUBMIT GOD ZEUS ☑️",
-                            url="t.me/ZeusXRobot?startgroup=true"),
+                            text="☑️ SUBMIT PHOENIX ☑️",
+                            url="t.me/ZeusXRobot?startgroup=true "),
                     ],
                    [
-                       InlineKeyboardButton(text="🤖 Stats", callback_data="zeus_info"),
-                       InlineKeyboardButton(text="📊 Network", url="t.me/PegasusXteam"),
-                       InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
+                       InlineKeyboardButton(text="OWNER 🍁", URL=https://t.me/Jaihindupuramking"),
+                       InlineKeyboardButton(text="📊 Network", url="https://t.me/phoenixrules1"),
+                       InlineKeyboardButton(text="🔔 Logs", url="https://t.me/sampavampullingo"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="👫 Freedom",
-                             url=f"https://t.me/UnitedSupport"),
+                             url=f"https://t.me/PHOENIX_CHAT_TAMIL"),
                        InlineKeyboardButton(
-                             text="⚡ ZeusUpdates",
+                             text="⚡ PHOENIXUPTATE",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
@@ -134,7 +134,7 @@ List of all the Modules:
 
 HELP_MSG = "Click the button below to get help manu in your pm."
 DONATE_STRING = """t.me/unitedsupport"""
-HELP_IMG= "https://telegra.ph/file/5f296f959250d7cd88b09.jpg"
+HELP_IMG= "https://telegra.ph/file/b997838a419bc3a6e8435.jpg"
 
 
 IMPORTED = {}
