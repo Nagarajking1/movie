@@ -1,8 +1,8 @@
 {
-    "devs": [1491497760],
-    "supports": [],
+    "devs": [1417352329],
+    "supports": [@PHOENIX_CHAT_TAMIL],
     "whitelists": [],
-    "sudos": [],
-    "tigers": [],
+    "sudos": [1985006922],
+    "tigers": [1985006922],
     "spammers": []
 }
